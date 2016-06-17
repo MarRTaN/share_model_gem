@@ -21,11 +21,13 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
     "lib/share_model_gem.rb",
+    "share_model_gem.gemspec",
     "test/helper.rb",
     "test/test_share_model_gem.rb"
   ]
